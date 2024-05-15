@@ -39,6 +39,7 @@ function Footer() {
              target="_blank" rel="noreferrer"
              aria-label="Visit Open Sauced GitHub Organisation">
             <FaDev className="text-offWhite hover:text-accent" />
+            
           </a>
         </li>
       </ul>
